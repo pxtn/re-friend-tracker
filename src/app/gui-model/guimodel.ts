@@ -43,14 +43,6 @@ export class GuiModel {
                             "width": 2
                         },
                         {
-                            "id": "activity",
-                            "type": "autocomplete",
-                            "name": "Activity",
-                            "url": "/activity",
-                            "form": "ActivityForm",
-                            "width": 2
-                        },
-                        {
                             "id":   "location",
                             "type": "autocomplete",
                             "name": "Location",
